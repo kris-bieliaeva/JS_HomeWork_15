@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 console.log('Sample JavaScript HW#1');
 
 /*
